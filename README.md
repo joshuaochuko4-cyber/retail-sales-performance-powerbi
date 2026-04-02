@@ -91,7 +91,9 @@ identify top revenue drivers, and compare country-level contribution
 | File | Description |
 |------|-------------|
 | `![image](https://github.com/user-attachments/assets/1e75fe18-c401-46b7-a6ca-adcfa6a0dda8)
-` | Screenshot of the Power BI |`https://drive.google.com/file/d/1vi-TKELVxrgrm75_cKmKkATHS3xvwEjK/view?usp=drivesdk' | Full project documentation |
+` | Screenshot of the Power BI 
+
+|'https://github.com/joshuaochuko4-cyber/retail-sales-performance-powerbi/blob/4259548110b2d58886329dd868df67161dc9f24f/josh%20Retail%20sales.pbix' | Full project documentation |
 
 ---
 
